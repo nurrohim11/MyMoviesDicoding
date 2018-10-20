@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_search_text">search by movie title</string>
+    <string name="title_refresh_menu">Refresh Movie List</string>
+
+    <string name="label_release_date">Release Date</string>
+    <string name="label_vote">Vote Average:</string>
+    <string name="label_genres">Movie Genres</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_production_details">Production Details</string>
+    <string name="label_belongs">Belongs To Collection</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_revenue">Revenue</string>
+    <string name="label_companies">Companies</string>
+    <string name="label_countries">Countries</string>
+    <string name="trailer">Trailer</string>
+    <string name="title">Title</string>
+    <string name="duration">Duration</string>
+    <string name="homepage">Homepage</string>
+    <string name="review_film">Review Film</string>
+    <string name="good_luck_rohim">Good Luck Rohim</string>
+</resources>
